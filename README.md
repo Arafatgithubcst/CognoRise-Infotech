@@ -1,6 +1,7 @@
 # CognoRise-Infotech
 
-All the files contains pyhthon code.
+All the files contain Python code.
+These Python projects are created as the partial fulfillment of Cognorise Infotech's Python Development internship program.
 
 Prerequisites:
 Python 3
